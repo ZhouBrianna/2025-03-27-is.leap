@@ -1,5 +1,5 @@
 Package: is.leap
-Title: What the Package Does (One Line, Title Case)
+Title: Is it a leap year 
 Version: 0.0.0.9000
 Authors@R: 
     person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
