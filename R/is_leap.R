@@ -14,3 +14,5 @@ is_leap <- function(num) {
         return(FALSE)
     }
 }
+
+# rm(list = ls()) # removes things from env, but not detach libraries
